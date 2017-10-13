@@ -14,6 +14,6 @@ Please check the boxes in this list after submitting your PR:
 - [ ] You can merge this PR **right now** (if not, please prefix the title with "WIP: ")
 - [ ] I've tested **all** changes included in this PR.
 - [ ] I've also reviewed this PR myself before submitting (e.g. for scrambled letters, typos, etc.)
-- [ ] I've merged the `develop` branch into my branch when submitting this PR.
+- [ ] I've merged the `develop` branch into my before finishing this PR.
 - [ ] I've **not added any other changes** than the ones described above.
 - [ ] 've mentioned all **PRs, which relate to this one**
