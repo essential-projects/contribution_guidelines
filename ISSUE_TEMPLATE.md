@@ -11,6 +11,9 @@
 > Describe how others can reproduce this issue as precisely as possible.
 > 
 > If you can't reproduce the issue, let us know what you tried!
+> 
+> You can remove this section if the issue isn't something reproducable
+> (for example for certain questions or feature requests).
 
 #### Possible solution
 
