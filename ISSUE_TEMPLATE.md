@@ -17,12 +17,12 @@
 
 > Describe how others can reproduce this issue as precisely as possible.
 > 
-> If you can't reproduce the issue, let us know what you tried.
+> If you can't reproduce the issue, let us know what you tried!
 
 #### Possible solution
 
 > If you have a possible solution to this issue or an idea that might
-> help to find one, describe it here. Let us know what you tried
+> help to find one, describe it here. Let us know what you tried!
 >
 > You can remove this section if it'd be empty.
 
