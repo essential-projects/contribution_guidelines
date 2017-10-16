@@ -1,0 +1,34 @@
+#### I'm opening this issue because:
+
+- [ ] I found a bug
+- [ ] I want to request a feature
+- [ ] I have a question regarding this module
+- [ ] This module does something unexpected
+
+#### Describe your issue
+
+> Describe the issue or ask your question regarding this module.
+> Provide as much relevant information as you can. If you're not sure if something
+> is relevant or not, include it as well!
+> 
+> Logs and screenshots are very welcome!
+
+#### How can others reproduce the issue?
+
+> Describe how others can reproduce this issue as precisely as possible.
+> 
+> If you can't reproduce the issue, let us know what you tried.
+
+#### Possible solution
+
+> If you have a possible solution to this issue or an idea that might
+> help to find one, describe it here. Let us know what you tried
+>
+> You can remove this section if it'd be empty.
+
+#### Issue checklist
+
+- [ ] I've checked if this issue already exists
+- [ ] I've included all the information that is probably relevant
+- [ ] I've added logs and/or screenshots (if applicable)
+- [ ] I've mentioned PRs and issues that relate to this one
