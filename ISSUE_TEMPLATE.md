@@ -24,10 +24,10 @@
 
 #### What's your setup
 
-- OS: (`Windows/OS X/Linux` + `version`)
-- Node: (`node --version`)
-- NPM: (`npm --version`)
-- Docker: (`docker version --format '{{.Server.Version}}'`)
+- OS (`Windows/OS X/Linux` + `version`):
+- Node (`node --version`):
+- NPM (`npm --version`):
+- Docker (`docker version --format '{{.Server.Version}}'`):
 
 > You can remove this section if it's irrelevant to the issue
 > (for example for certain questions or feature requests).
